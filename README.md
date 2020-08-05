@@ -1,5 +1,5 @@
 # SCAMP-Accesment
-# Fibonacci sequence of a given number.
+Fibonacci sequence of a given number.
 def find_fibonacci(num):
     # initializing 0th and 1st term
     x, y = 0, 1
